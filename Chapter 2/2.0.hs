@@ -1,0 +1,1 @@
+getDollarPerSquare area cost = area / cost
